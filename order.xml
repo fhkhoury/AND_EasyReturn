@@ -1,0 +1,31 @@
+
+<?xml version="1.0"?>
+<vendor name="Amazon" twitter="Amazon_Twitter" facebook="Amazon_Facebook"/>
+<order number="123456" numberOfArticles="3" amount ="499,65">
+   <product id="1">
+      <name>Pack Playstation 4 Ultimate Edition 1To + PES 2016 + GTA V</name>
+      <brand>Sony</brand>
+      <model>Playstation 4 PES 2016 Edition</model>
+      <quantity>1</quantity>
+      <sku>AZ23456</sku>
+      <price>399,99</price>
+      <number>1</number>
+      <description></description>
+      <gallery>
+      		<picture id="1">http://ecx.images-amazon.com/images/I/81xsq0F3HnL._SL1200_.jpg</picture>
+      </gallery>
+   </product>
+   <product id="2">
+      <name>Manette PS4 Dual Shock 4</name>
+      <brand>Sony</brand>
+      <model>PS4 Dual Shock 4</model>
+      <quantity>2</quantity>
+      <sku>AZ23456</sku>
+      <price>50</price>
+      <number>2</number>
+      <description>La manette DualShock 4 propose des innovations conçues pour garantir des expériences de jeu toujours plus immersives, à travers notamment un systéme de détection de mouvements à six axes et un pavé tactile situé en haut de la manette offre de toutes nouvelles façons pour jouer et interagir avec vos jeux. Grâce à la nouvelle touche Share, le partage et la diffusion de vidéo en streaming est à portée de doigt.</description>
+      <gallery>
+      		<picture id="1">http://ecx.images-amazon.com/images/I/61ctoGDd0DL._SL1000_.jpg</picture>
+      </gallery>
+   </product>
+</order>
